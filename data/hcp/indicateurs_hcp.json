@@ -1,0 +1,5385 @@
+{
+    "pib_total": [
+        {
+            "annee": 2023,
+            "valeur": 144417103249.646,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2022,
+            "valeur": 130951926351.241,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2021,
+            "valeur": 142022058447.231,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2020,
+            "valeur": 121353645057.144,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2019,
+            "valeur": 128920266409.458,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2018,
+            "valeur": 127341147581.818,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2017,
+            "valeur": 118540573367.844,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2016,
+            "valeur": 111572947004.917,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2015,
+            "valeur": 110413823841.592,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2014,
+            "valeur": 119130841411.664,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2013,
+            "valeur": 115739287305.08,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2012,
+            "valeur": 106937392311.129,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2011,
+            "valeur": 110080631332.375,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2010,
+            "valeur": 100865329473.44,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2009,
+            "valeur": 101154952240.881,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2008,
+            "valeur": 101822906949.063,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2007,
+            "valeur": 86947913286.728,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2006,
+            "valeur": 75883823300.8545,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2005,
+            "valeur": 68852658068.6673,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2004,
+            "valeur": 66114145451.0067,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2003,
+            "valeur": 58029363354.2757,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2002,
+            "valeur": 47077192187.6418,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2001,
+            "valeur": 43831480207.6444,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 2000,
+            "valeur": 43017455401.8445,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1999,
+            "valeur": 46266428648.1433,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1998,
+            "valeur": 46497608724.9865,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1997,
+            "valeur": 39147844526.0838,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1996,
+            "valeur": 43161571527.6353,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1995,
+            "valeur": 39030285468.3841,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1994,
+            "valeur": 35604137422.5796,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1993,
+            "valeur": 31655473663.8348,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1992,
+            "valeur": 33711069430.78,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1991,
+            "valeur": 32285573573.9185,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1990,
+            "valeur": 30179954774.9899,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1989,
+            "valeur": 26314313191.1826,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1988,
+            "valeur": 25705296183.5037,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1987,
+            "valeur": 21765195948.189,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1986,
+            "valeur": 19462085540.2231,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1985,
+            "valeur": 14991283215.7408,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1984,
+            "valeur": 14824667954.3674,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1983,
+            "valeur": 16251408127.5735,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1982,
+            "valeur": 17692276734.171,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1981,
+            "valeur": 17788185478.944,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1980,
+            "valeur": 21728516153.0907,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1979,
+            "valeur": 15911994817.3107,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1978,
+            "valeur": 13236946233.5759,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1977,
+            "valeur": 11049783871.8144,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1976,
+            "valeur": 9584297284.28316,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1975,
+            "valeur": 8984853005.08058,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1974,
+            "valeur": 7675466449.35531,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1973,
+            "valeur": 6242145880.08876,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1972,
+            "valeur": 5074117544.77482,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1971,
+            "valeur": 4356669034.34266,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1970,
+            "valeur": 3956336244.11865,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1969,
+            "valeur": 3651622668.95103,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1968,
+            "valeur": 3271422332.61996,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1967,
+            "valeur": 3046345314.38655,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1966,
+            "valeur": 2876401297.10759,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1965,
+            "valeur": 2948331090.46752,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1964,
+            "valeur": 2798345298.57781,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1963,
+            "valeur": 2657252578.30763,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1962,
+            "valeur": 2379611124.61442,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1961,
+            "valeur": 2025693539.55842,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        },
+        {
+            "annee": 1960,
+            "valeur": 2037154741.93211,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "PIB total"
+        }
+    ],
+    "taux_croissance": [
+        {
+            "annee": 2023,
+            "valeur": 3.40334130078834,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2022,
+            "valeur": 1.52720357976111,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2021,
+            "valeur": 8.15473889823681,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2020,
+            "valeur": -7.17820744246774,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2019,
+            "valeur": 2.89097476137077,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2018,
+            "valeur": 3.06564133025955,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2017,
+            "valeur": 5.05789816173446,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2016,
+            "valeur": 0.52118550608968,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2015,
+            "valeur": 4.34458297635238,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2014,
+            "valeur": 2.7192440802029,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2013,
+            "valeur": 4.12221286860944,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2012,
+            "valeur": 3.06234368502997,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2011,
+            "valeur": 5.52464523319847,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2010,
+            "valeur": 3.49955709403216,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2009,
+            "valeur": 3.74576940136258,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2008,
+            "valeur": 5.68453936284732,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2007,
+            "valeur": 3.44106776690418,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2006,
+            "valeur": 7.7908200104027,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2005,
+            "valeur": 3.19224973015831,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2004,
+            "valeur": 4.57138016516208,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2003,
+            "valeur": 6.17110214953244,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2002,
+            "valeur": 3.73019737485745,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2001,
+            "valeur": 7.72182519577728,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 2000,
+            "valeur": 2.58218091499747,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1999,
+            "valeur": 1.6970614772566,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1998,
+            "valeur": 7.23855267691987,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1997,
+            "valeur": -1.56070234550782,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1996,
+            "valeur": 12.3728762700496,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1995,
+            "valeur": -5.40544787197402,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1994,
+            "valeur": 10.5880004161286,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1993,
+            "valeur": -0.740591700332374,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1992,
+            "valeur": -2.097738754022,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1991,
+            "valeur": 7.21608815359085,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1990,
+            "valeur": 3.41181222630115,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1989,
+            "valeur": 2.84620258132841,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1988,
+            "valeur": 11.8752359788597,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1987,
+            "valeur": -0.325004075650469,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1986,
+            "valeur": 9.27110576948627,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1985,
+            "valeur": 6.00765207144033,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1984,
+            "valeur": 6.41838632129115,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1983,
+            "valeur": 1.38656957735846,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1982,
+            "valeur": 8.95737202254297,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1981,
+            "valeur": -1.7434349305055,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1980,
+            "valeur": 3.64216481334074,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1979,
+            "valeur": 4.79378720493398,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1978,
+            "valeur": 2.23266338861872,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1977,
+            "valeur": 6.0591676788529,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1976,
+            "valeur": 10.8127813442855,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1975,
+            "valeur": 7.55822156113805,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1974,
+            "valeur": 5.59604994440339,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1973,
+            "valeur": 3.55931083241548,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1972,
+            "valeur": 2.43723734665467,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1971,
+            "valeur": 5.5968936595313,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1970,
+            "valeur": 4.71346037515517,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1969,
+            "valeur": 8.36216535672018,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1968,
+            "valeur": 9.89173930674043,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        },
+        {
+            "annee": 1967,
+            "valeur": 10.0288413593661,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de croissance"
+        }
+    ],
+    "inflation": [
+        {
+            "annee": 2024,
+            "valeur": 0.985256592004507,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2023,
+            "valeur": 6.09114152504141,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2022,
+            "valeur": 6.65704202759067,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2021,
+            "valeur": 1.40195883962006,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2020,
+            "valeur": 0.705968661338261,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2019,
+            "valeur": 0.303386036590383,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2018,
+            "valeur": 1.80391671141896,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2017,
+            "valeur": 0.754663249323619,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2016,
+            "valeur": 1.63531114327064,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2015,
+            "valeur": 1.5579071134626,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2014,
+            "valeur": 0.442310053557048,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2013,
+            "valeur": 1.88065466724086,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2012,
+            "valeur": 1.28712240079219,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2011,
+            "valeur": 0.9069249096918,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2010,
+            "valeur": 0.993557401226392,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2009,
+            "valeur": 0.971862998667636,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2008,
+            "valeur": 3.71484311494064,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2007,
+            "valeur": 2.04208512673344,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2006,
+            "valeur": 3.28476166954811,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2005,
+            "valeur": 0.982641660015951,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2004,
+            "valeur": 1.49344403381774,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2003,
+            "valeur": 1.16773367477592,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2002,
+            "valeur": 2.79561966936936,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2001,
+            "valeur": 0.619801875297975,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 2000,
+            "valeur": 1.89463456763464,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1999,
+            "valeur": 0.684782608695643,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1998,
+            "valeur": 2.75311330764477,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1997,
+            "valeur": 1.03819895051614,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1996,
+            "valeur": 2.98680922773017,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1995,
+            "valeur": 6.12358164775523,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1994,
+            "valeur": 5.14167152953361,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1993,
+            "valeur": 5.18311396030801,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1992,
+            "valeur": 5.7402466286874,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1991,
+            "valeur": 7.98616600790512,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1990,
+            "valeur": 6.78259401511006,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1989,
+            "valeur": 3.2599694922639,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1988,
+            "valeur": 2.36905505487641,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1987,
+            "valeur": 2.69873997713767,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1986,
+            "valeur": 8.73355918706675,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1985,
+            "valeur": 7.7286389008592,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1984,
+            "valeur": 12.4475693291853,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1983,
+            "valeur": 6.20793538870313,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1982,
+            "valeur": 10.5278072972983,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1981,
+            "valeur": 12.4925283921001,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1980,
+            "valeur": 9.40837947437956,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1979,
+            "valeur": 8.33136541815462,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1978,
+            "valeur": 9.7160327495434,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1977,
+            "valeur": 12.5970009920069,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1976,
+            "valeur": 8.50215244349303,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1975,
+            "valeur": 7.91828926702741,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1974,
+            "valeur": 17.5568227452454,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1973,
+            "valeur": 4.08461403612973,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1972,
+            "valeur": 3.75917055722263,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1971,
+            "valeur": 4.1553520683533,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1970,
+            "valeur": 1.27918132376476,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1969,
+            "valeur": 2.94989135439242,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1968,
+            "valeur": 0.436479069044525,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1967,
+            "valeur": -0.748276993897715,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1966,
+            "valeur": -1.0135793646964,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1965,
+            "valeur": 3.4828212200169,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1964,
+            "valeur": 4.02154147421213,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1963,
+            "valeur": 5.69971168745222,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1962,
+            "valeur": 5.09672908138148,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1961,
+            "valeur": 1.76312460493452,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        },
+        {
+            "annee": 1960,
+            "valeur": 3.42429906542058,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Inflation"
+        }
+    ],
+    "taux_chomage": [
+        {
+            "annee": 2024,
+            "valeur": 8.943,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2023,
+            "valeur": 9.044,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2022,
+            "valeur": 9.494,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2021,
+            "valeur": 10.576,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2020,
+            "valeur": 11.223,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2019,
+            "valeur": 9.194,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2018,
+            "valeur": 9.271,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2017,
+            "valeur": 9.223,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2016,
+            "valeur": 9.3,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2015,
+            "valeur": 9.46,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2014,
+            "valeur": 9.7,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2013,
+            "valeur": 9.23,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2012,
+            "valeur": 8.99,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2011,
+            "valeur": 8.91,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2010,
+            "valeur": 9.09,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2009,
+            "valeur": 8.96,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2008,
+            "valeur": 9.57,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2007,
+            "valeur": 9.56,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2006,
+            "valeur": 9.67,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2005,
+            "valeur": 11.01,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2004,
+            "valeur": 10.83,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2003,
+            "valeur": 11.92,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2002,
+            "valeur": 11.59,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2001,
+            "valeur": 12.46,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 2000,
+            "valeur": 13.58,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1999,
+            "valeur": 13.94,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1998,
+            "valeur": 13.393,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1997,
+            "valeur": 14.023,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1996,
+            "valeur": 13.398,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1995,
+            "valeur": 14.052,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1994,
+            "valeur": 13.869,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1993,
+            "valeur": 14.029,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1992,
+            "valeur": 13.8,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        },
+        {
+            "annee": 1991,
+            "valeur": 13.538,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux de chômage"
+        }
+    ],
+    "pib_secteur": [
+        {
+            "annee": 2023,
+            "valeur": 11.0646198674555,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2022,
+            "valeur": 9.8181364510228,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2021,
+            "valeur": 11.9779439009277,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2020,
+            "valeur": 10.6636401420592,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2019,
+            "valeur": 10.8424017370039,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2018,
+            "valeur": 11.3055402401365,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2017,
+            "valeur": 11.1602887992375,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2016,
+            "valeur": 10.3219651103177,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2015,
+            "valeur": 11.7961931846113,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2014,
+            "valeur": 10.3531465249527,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2013,
+            "valeur": 12.3583661932506,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2012,
+            "valeur": 11.3297511522793,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2011,
+            "valeur": 12.0819026098454,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2010,
+            "valeur": 11.9620812709231,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2009,
+            "valeur": 11.9650475529562,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2008,
+            "valeur": 10.864961794312,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2007,
+            "valeur": 9.8752466486995,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2006,
+            "valeur": 12.304168098197,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2005,
+            "valeur": 10.6988804483578,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2004,
+            "valeur": 11.869333718001,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2003,
+            "valeur": 12.4918601820552,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2002,
+            "valeur": 11.8432781663725,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2001,
+            "valeur": 11.8761776238587,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2000,
+            "valeur": 10.7286317929553,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1999,
+            "valeur": 12.4766395275978,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1998,
+            "valeur": 14.4867902100459,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1997,
+            "valeur": 14.6341801323036,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1996,
+            "valeur": 18.4399801016561,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1995,
+            "valeur": 13.4926498510091,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1994,
+            "valeur": 17.2595077231236,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1993,
+            "valeur": 13.0694074271171,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1992,
+            "valeur": 14.0427572103275,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1991,
+            "valeur": 17.4994367386153,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1990,
+            "valeur": 15.0951754132603,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1989,
+            "valeur": 14.3519017674523,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1988,
+            "valeur": 14.2034199748533,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1987,
+            "valeur": 11.7645157681426,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1986,
+            "valeur": 15.7051106574687,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1985,
+            "valeur": 13.2909327287831,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1984,
+            "valeur": 12.1231708808284,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1983,
+            "valeur": 12.6233838094129,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1982,
+            "valeur": 12.9155541111243,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1981,
+            "valeur": 10.6848450965363,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1980,
+            "valeur": 15.1221436201317,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1979,
+            "valeur": 17.9166062247151,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1978,
+            "valeur": 18.9197519672191,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1977,
+            "valeur": 16.3843170354294,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1976,
+            "valeur": 19.2534705826801,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1975,
+            "valeur": 17.8984372854357,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1974,
+            "valeur": 20.6559332140727,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1973,
+            "valeur": 20.8261819316586,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1972,
+            "valeur": 21.2550867423431,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1971,
+            "valeur": 21.8671878550975,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1970,
+            "valeur": 19.939063982818,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1969,
+            "valeur": 19.3300503273987,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1968,
+            "valeur": 22.4222289338568,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1967,
+            "valeur": 21.7371562013492,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1966,
+            "valeur": 21.0016488046167,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 1965,
+            "valeur": 23.4450402144772,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Agriculture"
+        },
+        {
+            "annee": 2023,
+            "valeur": 24.5583104066127,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2022,
+            "valeur": 25.9113093904963,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2021,
+            "valeur": 25.9539090511005,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2020,
+            "valeur": 26.0436433872433,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2019,
+            "valeur": 25.2499524130611,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2018,
+            "valeur": 25.2413538068182,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2017,
+            "valeur": 25.405454806575,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2016,
+            "valeur": 25.685104578574,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2015,
+            "valeur": 25.6226817262287,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2014,
+            "valeur": 25.8132675090419,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2013,
+            "valeur": 24.1531288845084,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2012,
+            "valeur": 24.2659773507632,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2011,
+            "valeur": 24.5065191885483,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2010,
+            "valeur": 23.7119126900355,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2009,
+            "valeur": 22.25957486397,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2008,
+            "valeur": 24.3155822554726,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2007,
+            "valeur": 22.422939278529,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2006,
+            "valeur": 22.7530814100902,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2005,
+            "valeur": 23.6812068826614,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2004,
+            "valeur": 24.0029876116656,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2003,
+            "valeur": 23.3248013144818,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2002,
+            "valeur": 22.6361224434387,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2001,
+            "valeur": 22.8696929940867,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2000,
+            "valeur": 24.3526302035856,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1999,
+            "valeur": 23.4872648863189,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1998,
+            "valeur": 23.14101634461,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1997,
+            "valeur": 27.3223950880414,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1996,
+            "valeur": 25.6209964186976,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1995,
+            "valeur": 26.3311782242225,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1994,
+            "valeur": 25.1640015647731,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1993,
+            "valeur": 26.4745223327555,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1992,
+            "valeur": 26.3722397566432,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1991,
+            "valeur": 26.0161584122031,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1990,
+            "valeur": 27.5981379041356,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1989,
+            "valeur": 27.346951339448,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1988,
+            "valeur": 27.7324072450463,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1987,
+            "valeur": 27.6076030776449,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1986,
+            "valeur": 27.3992711013127,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1985,
+            "valeur": 30.2080012935139,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1984,
+            "valeur": 30.8340797104011,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1983,
+            "valeur": 30.8714154937262,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1982,
+            "valeur": 30.3127021026047,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1981,
+            "valeur": 31.6829183410935,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1980,
+            "valeur": 28.7595462163051,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1979,
+            "valeur": 32.667665973599,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1978,
+            "valeur": 31.343148275737,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1977,
+            "valeur": 32.5515966319005,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1976,
+            "valeur": 32.016715459439,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1975,
+            "valeur": 35.17343659883,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1974,
+            "valeur": 35.020870602266,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1973,
+            "valeur": 27.9684818224372,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1972,
+            "valeur": 27.5476547440565,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1971,
+            "valeur": 27.2714876596518,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1970,
+            "valeur": 26.9666849807702,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1969,
+            "valeur": 27.6421884301099,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1968,
+            "valeur": 28.1002718212021,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1967,
+            "valeur": 28.5352880124546,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1966,
+            "valeur": 29.0533113492718,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 1965,
+            "valeur": 27.5469168900804,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Industrie"
+        },
+        {
+            "annee": 2023,
+            "valeur": 54.2776955468177,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2022,
+            "valeur": 54.6300123707497,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2021,
+            "valeur": 51.7882000339975,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2020,
+            "valeur": 53.1903022793513,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2019,
+            "valeur": 53.4781212999139,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2018,
+            "valeur": 53.070813570865,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2017,
+            "valeur": 53.0987601129781,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2016,
+            "valeur": 53.3932404781727,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2015,
+            "valeur": 52.2029571874719,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2014,
+            "valeur": 54.7549862499925,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2013,
+            "valeur": 47.6140626235819,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2012,
+            "valeur": 49.1349653712344,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2011,
+            "valeur": 48.2264357061115,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2010,
+            "valeur": 47.166110243688,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2009,
+            "valeur": 47.3016732715882,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2008,
+            "valeur": 46.5404621172017,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2007,
+            "valeur": 48.6528084619907,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2006,
+            "valeur": 46.499023933398,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2005,
+            "valeur": 47.3638124036934,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2004,
+            "valeur": 45.6602444605801,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2003,
+            "valeur": 45.0015319782644,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2002,
+            "valeur": 45.676137521941,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2001,
+            "valeur": 45.6511101629935,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 2000,
+            "valeur": 45.6643826902591,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1999,
+            "valeur": 44.2533919139392,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1998,
+            "valeur": 42.5183594548701,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1997,
+            "valeur": 46.6165085138162,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1996,
+            "valeur": 45.0430928732388,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1995,
+            "valeur": 48.0046353267544,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1994,
+            "valeur": 45.4937187047,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1993,
+            "valeur": 47.1056039204565,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1992,
+            "valeur": 46.3434551034315,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1991,
+            "valeur": 44.2206213617144,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1990,
+            "valeur": 44.9609311681798,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1989,
+            "valeur": 45.4069231821335,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1988,
+            "valeur": 45.0175625177477,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1987,
+            "valeur": 47.9059098576714,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1986,
+            "valeur": 45.7727310015655,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1985,
+            "valeur": 46.7304756980145,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1984,
+            "valeur": 47.5275274122662,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1983,
+            "valeur": 46.8931852445249,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1982,
+            "valeur": 47.4172881737603,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1981,
+            "valeur": 48.7386460582121,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        },
+        {
+            "annee": 1980,
+            "valeur": 46.7260712036299,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Services"
+        }
+    ],
+    "commerce_exterieur": [
+        {
+            "annee": 2023,
+            "valeur": 61741317207.8401,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2022,
+            "valeur": 58681916332.2068,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2021,
+            "valeur": 47060549921.4328,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2020,
+            "valeur": 37369771251.448,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2019,
+            "valeur": 43952860516.0238,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2018,
+            "valeur": 43077520359.3568,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2017,
+            "valeur": 38651885813.4308,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2016,
+            "valeur": 34291493550.4303,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2015,
+            "valeur": 33119569273.8522,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2014,
+            "valeur": 35897680523.6335,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2013,
+            "valeur": 35014914037.2784,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2012,
+            "valeur": 34323797625.1804,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2011,
+            "valeur": 35175698017.5837,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2010,
+            "valeur": 30046721232.9862,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2009,
+            "valeur": 26014198657.0851,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2008,
+            "valeur": 33064161825.4718,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2007,
+            "valeur": 27325793519.3796,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2006,
+            "valeur": 22483592810.1639,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2005,
+            "valeur": 19275921048.2382,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2004,
+            "valeur": 16759410598.7844,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2003,
+            "valeur": 14319608062.4725,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2002,
+            "valeur": 12213885545.7762,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2001,
+            "valeur": 11131243438.1214,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2000,
+            "valeur": 10408859646.151,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1999,
+            "valeur": 10472253113.6215,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1998,
+            "valeur": 9784229421.13294,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1997,
+            "valeur": 9365776466.88359,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1996,
+            "valeur": 9424749950.55001,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1995,
+            "valeur": 8849422505.8548,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1994,
+            "valeur": 7454972834.94513,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1993,
+            "valeur": 6983435380.1484,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1992,
+            "valeur": 7474470438.0417,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1991,
+            "valeur": 7205742182.60964,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1990,
+            "valeur": 7411991822.22723,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1989,
+            "valeur": 5935176840.23765,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1988,
+            "valeur": 6425436405.93975,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1987,
+            "valeur": 4893088773.18172,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1986,
+            "valeur": 4258765117.07142,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1985,
+            "valeur": 3824760011.92487,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1984,
+            "valeur": 3800181963.9577,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1983,
+            "valeur": 3697958874.88165,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1982,
+            "valeur": 3822370232.08615,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1981,
+            "valeur": 4032797040.23126,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1980,
+            "valeur": 4201411556.94467,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1979,
+            "valeur": 2706652297.66405,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1978,
+            "valeur": 2167005746.31402,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1977,
+            "valeur": 1866967361.6018,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1976,
+            "valeur": 1717031972.39751,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1975,
+            "valeur": 2019155150.89869,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1974,
+            "valeur": 2115101331.48976,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1973,
+            "valeur": 1300658084.24365,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1972,
+            "valeur": 942466527.560424,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1971,
+            "valeur": 738600055.96085,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1970,
+            "valeur": 697778278.388061,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1969,
+            "valeur": 671081258.929471,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1968,
+            "valeur": 604684526.597227,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1967,
+            "valeur": 545401729.872008,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1966,
+            "valeur": 545401729.872008,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1965,
+            "valeur": 535521263.751139,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1964,
+            "valeur": 545401670.589212,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1963,
+            "valeur": 476238486.786853,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1962,
+            "valeur": 428812249.406678,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1961,
+            "valeur": 440668808.751722,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 1960,
+            "valeur": 480190673.235201,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Exportations"
+        },
+        {
+            "annee": 2023,
+            "valeur": 73709510189.524,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2022,
+            "valeur": 73752886131.4127,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2021,
+            "valeur": 60199361761.1157,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2020,
+            "valeur": 46174693558.8201,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2019,
+            "valeur": 54024112942.437,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2018,
+            "valeur": 55299739977.2557,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2017,
+            "valeur": 49273637902.1126,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2016,
+            "valeur": 45062154625.7161,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2015,
+            "valeur": 41176430827.7419,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2014,
+            "valeur": 49749730471.191,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2013,
+            "valeur": 50467526991.8377,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2012,
+            "valeur": 49324878352.9361,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2011,
+            "valeur": 49394706345.8953,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2010,
+            "valeur": 40097025623.1379,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2009,
+            "valeur": 37077112112.2985,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2008,
+            "valeur": 46189159809.4273,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2007,
+            "valeur": 34711235492.9908,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2006,
+            "valeur": 26592143477.0157,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2005,
+            "valeur": 23064213861.9615,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2004,
+            "valeur": 19968080462.6333,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2003,
+            "valeur": 16048236121.325,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2002,
+            "valeur": 13353797749.7505,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2001,
+            "valeur": 12314903925.7364,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2000,
+            "valeur": 12579800084.6979,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1999,
+            "valeur": 12003458114.1422,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1998,
+            "valeur": 11452325638.5396,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1997,
+            "valeur": 10658406549.8058,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1996,
+            "valeur": 10902426721.0777,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1995,
+            "valeur": 11335099531.6159,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1994,
+            "valeur": 9390609855.48191,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1993,
+            "valeur": 8739349822.56157,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1992,
+            "valeur": 9469830979.15203,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1991,
+            "valeur": 8865788883.08228,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1990,
+            "valeur": 9074317736.39094,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1989,
+            "valeur": 7314302140.5085,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1988,
+            "valeur": 6462582987.17277,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1987,
+            "valeur": 5914964604.97235,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1986,
+            "valeur": 5526888962.55256,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1985,
+            "valeur": 5067330815.86008,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1984,
+            "valeur": 5148384842.87449,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1983,
+            "valeur": 4852572439.75558,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1982,
+            "valeur": 5968583544.93807,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1981,
+            "valeur": 6184035097.75929,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1980,
+            "valeur": 6085317298.02477,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1979,
+            "valeur": 4752055199.94953,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1978,
+            "valeur": 3980131860.66287,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1977,
+            "valeur": 4123911420.53042,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1976,
+            "valeur": 3520253831.36561,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1975,
+            "valeur": 2996086107.12385,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1974,
+            "valeur": 2163914002.73745,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1973,
+            "valeur": 1379890190.24228,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1972,
+            "valeur": 975395583.376804,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1971,
+            "valeur": 859393115.864901,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1970,
+            "valeur": 853751316.572111,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1969,
+            "valeur": 687680442.012532,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1968,
+            "valeur": 656062950.425749,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1967,
+            "valeur": 614564992.718096,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1966,
+            "valeur": 557258289.217052,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1965,
+            "valeur": 497975492.491834,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1964,
+            "valeur": 535521283.512071,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1963,
+            "valeur": 533545170.526965,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1962,
+            "valeur": 501927678.940182,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1961,
+            "valeur": 501927678.940182,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 1960,
+            "valeur": 462405814.456703,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Importations"
+        },
+        {
+            "annee": 2023,
+            "valeur": -11968192981.6839,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2022,
+            "valeur": -15070969799.206,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2021,
+            "valeur": -13138811839.6829,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2020,
+            "valeur": -8804922307.37212,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2019,
+            "valeur": -10071252426.4132,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2018,
+            "valeur": -12222219617.8989,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2017,
+            "valeur": -10621752088.6818,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2016,
+            "valeur": -10770661075.2858,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2015,
+            "valeur": -8056861553.88972,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2014,
+            "valeur": -13852049947.5574,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2013,
+            "valeur": -15452612954.5593,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2012,
+            "valeur": -15001080727.7557,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2011,
+            "valeur": -14219008328.3116,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2010,
+            "valeur": -10050304390.1516,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2009,
+            "valeur": -11062913455.2134,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2008,
+            "valeur": -13124997983.9555,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2007,
+            "valeur": -7385441973.61118,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2006,
+            "valeur": -4108550666.85176,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2005,
+            "valeur": -3788292813.72335,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2004,
+            "valeur": -3208669863.84893,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2003,
+            "valeur": -1728628058.85246,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2002,
+            "valeur": -1139912203.97423,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2001,
+            "valeur": -1183660487.61499,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2000,
+            "valeur": -2170940438.54696,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1999,
+            "valeur": -1531205000.52068,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1998,
+            "valeur": -1668096217.40666,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1997,
+            "valeur": -1292630082.92222,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1996,
+            "valeur": -1477676770.52771,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1995,
+            "valeur": -2485677025.76112,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1994,
+            "valeur": -1935637020.53678,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1993,
+            "valeur": -1755914442.41316,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1992,
+            "valeur": -1995360541.11033,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1991,
+            "valeur": -1660046700.47263,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1990,
+            "valeur": -1662325914.16372,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1989,
+            "valeur": -1379125300.27085,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1988,
+            "valeur": -37146581.2330219,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1987,
+            "valeur": -1021875831.79063,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1986,
+            "valeur": -1268123845.48114,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1985,
+            "valeur": -1242570803.93521,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1984,
+            "valeur": -1348202878.91679,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1983,
+            "valeur": -1154613564.87393,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1982,
+            "valeur": -2146213312.85192,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1981,
+            "valeur": -2151238057.52803,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1980,
+            "valeur": -1883905741.0801,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1979,
+            "valeur": -2045402902.28548,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1978,
+            "valeur": -1813126114.34884,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1977,
+            "valeur": -2256944058.92863,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1976,
+            "valeur": -1803221858.96809,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1975,
+            "valeur": -976930956.225153,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1974,
+            "valeur": -48812671.2476889,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1973,
+            "valeur": -79232105.9986301,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1972,
+            "valeur": -32929055.8163798,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1971,
+            "valeur": -120793059.904051,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1970,
+            "valeur": -155973038.184049,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1969,
+            "valeur": -16599183.0830611,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1968,
+            "valeur": -51378423.8285225,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1967,
+            "valeur": -69163262.846088,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1966,
+            "valeur": -11856559.3450437,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1965,
+            "valeur": 37545771.2593049,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1964,
+            "valeur": 9880387.07714075,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1963,
+            "valeur": -57306683.7401121,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1962,
+            "valeur": -73115429.5335037,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1961,
+            "valeur": -61258870.18846,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 1960,
+            "valeur": 17784858.7784977,
+            "unite": "USD",
+            "pays": "Maroc",
+            "indicateur": "Balance commerciale"
+        },
+        {
+            "annee": 2023,
+            "valeur": 93.7914030606318,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2022,
+            "valeur": 101.132382053244,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2021,
+            "valeur": 75.5234171756506,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2020,
+            "valeur": 68.8438033904364,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2019,
+            "valeur": 75.9981158798422,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2018,
+            "valeur": 77.2548875243989,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2017,
+            "valeur": 74.1733578786573,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2016,
+            "valeur": 71.1226603816864,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2015,
+            "valeur": 67.2886759253849,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2014,
+            "valeur": 71.8935667539398,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2013,
+            "valeur": 73.8577565315318,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2012,
+            "valeur": 78.2221018956072,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2011,
+            "valeur": 76.8258714906247,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2010,
+            "valeur": 69.541979610144,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2009,
+            "valeur": 62.3709560152269,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2008,
+            "valeur": 77.8344716425602,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2007,
+            "valeur": 71.3496467796657,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2006,
+            "valeur": 64.6721977787154,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2005,
+            "valeur": 61.4938276863235,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2004,
+            "valeur": 55.5516384744536,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2003,
+            "valeur": 52.3318582669923,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2002,
+            "valeur": 54.31012791421,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2001,
+            "valeur": 53.4915710187871,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 2000,
+            "valeur": 53.4403058388785,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1999,
+            "valeur": 48.578876486646,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1998,
+            "valeur": 45.6723595943991,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1997,
+            "valeur": 51.1501546486104,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1996,
+            "valeur": 47.0955434479783,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1995,
+            "valeur": 51.7150253841236,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1994,
+            "valeur": 47.3135537325048,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1993,
+            "valeur": 49.668456614101,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1992,
+            "valeur": 50.2633161845725,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1991,
+            "valeur": 49.7792954766494,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1990,
+            "valeur": 54.6266874206198,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1989,
+            "valeur": 50.3508447455349,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1988,
+            "valeur": 50.1376031659319,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1987,
+            "valeur": 49.6575055142262,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1986,
+            "valeur": 50.2806035838223,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1985,
+            "valeur": 59.3150746324922,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1984,
+            "valeur": 60.3626795175262,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1983,
+            "valeur": 52.6140950218936,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1982,
+            "valeur": 55.3402703571435,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1981,
+            "valeur": 57.4360558027929,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1980,
+            "valeur": 47.3420678268738,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1979,
+            "valeur": 46.8747481585352,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1978,
+            "valeur": 46.4392428473003,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1977,
+            "valeur": 54.2171580153132,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1976,
+            "valeur": 54.6444423458306,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1975,
+            "valeur": 55.818845953146,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1974,
+            "valeur": 55.7492546213476,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1973,
+            "valeur": 42.9427367764082,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1972,
+            "valeur": 37.7969586635254,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1971,
+            "valeur": 36.6792418526431,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1970,
+            "valeur": 39.216322860996,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1969,
+            "valeur": 37.209805725418,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1968,
+            "valeur": 38.5382059800665,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1967,
+            "valeur": 38.0773222625843,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1966,
+            "valeur": 38.3347073371805,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1965,
+            "valeur": 35.0536193029491,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1964,
+            "valeur": 38.6272185441388,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1963,
+            "valeur": 38.001041585476,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1962,
+            "valeur": 39.1131104876505,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1961,
+            "valeur": 46.5320380049876,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        },
+        {
+            "annee": 1960,
+            "valeur": 46.2702448807553,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Commerce extérieur"
+        }
+    ],
+    "secteur_bancaire": [
+        {
+            "annee": 2023,
+            "valeur": 2.78666666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2022,
+            "valeur": 2.4775,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2021,
+            "valeur": 2.56833333333333,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2020,
+            "valeur": 2.86583333333333,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2019,
+            "valeur": 3.01166666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2018,
+            "valeur": 3.08916666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2017,
+            "valeur": 3.1225,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2016,
+            "valeur": 3.4625,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2015,
+            "valeur": 3.80166666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2014,
+            "valeur": 3.8925,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2013,
+            "valeur": 3.91416666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2012,
+            "valeur": 3.83416666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2011,
+            "valeur": 3.75666666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2010,
+            "valeur": 3.69416666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2009,
+            "valeur": 3.80916666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2008,
+            "valeur": 3.91416666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2007,
+            "valeur": 3.66916666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2006,
+            "valeur": 3.66666666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2005,
+            "valeur": 3.52333333333333,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2004,
+            "valeur": 3.605,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2003,
+            "valeur": 3.77916666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2002,
+            "valeur": 4.54416666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2001,
+            "valeur": 5.03833333333333,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2000,
+            "valeur": 5.15833333333333,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1999,
+            "valeur": 6.3875,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1998,
+            "valeur": 7.26083333333333,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1997,
+            "valeur": 7.98,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1994,
+            "valeur": 6.94166666666667,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1991,
+            "valeur": 8.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1990,
+            "valeur": 8.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1989,
+            "valeur": 8.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1988,
+            "valeur": 8.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1987,
+            "valeur": 8.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1986,
+            "valeur": 8.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1985,
+            "valeur": 8.0,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1984,
+            "valeur": 6.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1983,
+            "valeur": 6.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1982,
+            "valeur": 6.375,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1981,
+            "valeur": 6.0,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1980,
+            "valeur": 4.875,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1979,
+            "valeur": 4.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 1978,
+            "valeur": 4.5,
+            "unite": "%",
+            "pays": "Maroc",
+            "indicateur": "Taux d'intérêt sur les dépôts"
+        },
+        {
+            "annee": 2023,
+            "valeur": 20.9183908505432,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2022,
+            "valeur": 21.5927021466739,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2021,
+            "valeur": 22.4515822539656,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2020,
+            "valeur": 24.4269179252193,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2019,
+            "valeur": 24.8666255822373,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2018,
+            "valeur": 25.0510789465544,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2017,
+            "valeur": 24.9501056236698,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2016,
+            "valeur": 24.8687671369857,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2015,
+            "valeur": 24.6582373508708,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2014,
+            "valeur": 24.1112687512959,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2013,
+            "valeur": 23.6416666013392,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2012,
+            "valeur": 22.9173809131591,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2011,
+            "valeur": 21.873924445027,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2010,
+            "valeur": 20.8308465047478,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2009,
+            "valeur": 19.5965077294641,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2008,
+            "valeur": 14.16949899507,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2007,
+            "valeur": 12.6491092697698,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2006,
+            "valeur": 11.5241264217214,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2005,
+            "valeur": 10.6776884192338,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2004,
+            "valeur": 9.98944627183632,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Succursales bancaires"
+        },
+        {
+            "annee": 2021,
+            "valeur": 28.92,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2020,
+            "valeur": 28.61,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2019,
+            "valeur": 28.58,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2018,
+            "valeur": 27.79,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2017,
+            "valeur": 27.21,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2016,
+            "valeur": 26.84,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2015,
+            "valeur": 26.06,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2014,
+            "valeur": 25.28,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2013,
+            "valeur": 24.26,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2012,
+            "valeur": 22.9,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2011,
+            "valeur": 21.35,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2010,
+            "valeur": 19.66,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2009,
+            "valeur": 18.24,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2008,
+            "valeur": 16.27,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2007,
+            "valeur": 14.27,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2006,
+            "valeur": 12.85,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2005,
+            "valeur": 14.86,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2004,
+            "valeur": 8.34,
+            "unite": "pour 100 000 adultes",
+            "pays": "Maroc",
+            "indicateur": "Distributeurs automatiques"
+        },
+        {
+            "annee": 2023,
+            "valeur": 137.907253374898,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2022,
+            "valeur": 146.569549471791,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2021,
+            "valeur": 144.124491733764,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2020,
+            "valeur": 149.599173271123,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2019,
+            "valeur": 131.077577993136,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2018,
+            "valeur": 127.100967729106,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2017,
+            "valeur": 124.402565864015,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2016,
+            "valeur": 122.671460146823,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2015,
+            "valeur": 117.121031411003,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2014,
+            "valeur": 122.224412727955,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2013,
+            "valeur": 120.203980156373,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2012,
+            "valeur": 121.364454472723,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2011,
+            "valeur": 116.96256190314,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        },
+        {
+            "annee": 2010,
+            "valeur": 110.393369723942,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Crédit domestique"
+        }
+    ],
+    "dette_publique": [
+        {
+            "annee": 2011,
+            "valeur": 51.2263215704569,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2010,
+            "valeur": 47.0982656739638,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2009,
+            "valeur": 43.6257434782389,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2008,
+            "valeur": 41.2851314683307,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2007,
+            "valeur": 46.3035380770239,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2006,
+            "valeur": 49.5746100609743,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2005,
+            "valeur": 53.6662965686373,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2002,
+            "valeur": 48.4750786200092,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1999,
+            "valeur": 55.4449807288653,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1998,
+            "valeur": 55.0124708324473,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1997,
+            "valeur": 64.4624151446094,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1995,
+            "valeur": 68.3949152787535,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1994,
+            "valeur": 69.8259155220588,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1993,
+            "valeur": 74.12313156115,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1992,
+            "valeur": 70.9378689831812,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1991,
+            "valeur": 62.0674162757784,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1990,
+            "valeur": 87.1967599759139,
+            "unite": "% du PIB",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2011,
+            "valeur": 456190140000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2010,
+            "valeur": 399864000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2009,
+            "valeur": 355556600000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2008,
+            "valeur": 325806000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2007,
+            "valeur": 329823000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2006,
+            "valeur": 330882000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2005,
+            "valeur": 327568000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 2002,
+            "valeur": 251507000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1999,
+            "valeur": 251507000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1998,
+            "valeur": 245676000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1997,
+            "valeur": 240420000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1995,
+            "valeur": 227973000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1994,
+            "valeur": 228795000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1993,
+            "valeur": 218192000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1992,
+            "valeur": 204177000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1991,
+            "valeur": 174469000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        },
+        {
+            "annee": 1990,
+            "valeur": 216905000000.0,
+            "unite": "Devise locale",
+            "pays": "Maroc",
+            "indicateur": "Dette publique totale"
+        }
+    ],
+    "metadata": {
+        "source": "Banque Mondiale",
+        "date_collecte": "2025-05-21 11:33:09",
+        "description": "Données économiques du Maroc collectées depuis la Banque Mondiale"
+    }
+}
