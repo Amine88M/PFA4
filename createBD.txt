@@ -1,0 +1,27 @@
+nom BD: economic_data_warehouse 
+
+-- Créer la table dimension_year
+CREATE TABLE dimension_year (
+    id_annee INT AUTO_INCREMENT PRIMARY KEY,
+    annee INT NOT NULL
+);
+
+-- Créer la table dimension_sector
+CREATE TABLE dimension_sector (
+    id_secteur INT AUTO_INCREMENT PRIMARY KEY,
+    nom_secteur VARCHAR(255) NOT NULL
+);
+
+-- Créer la table fact_economic_data
+CREATE TABLE fact_economic_data (
+    id_fact INT AUTO_INCREMENT PRIMARY KEY,
+    id_annee INT NOT NULL,
+    id_secteur INT NOT NULL,
+    pib_total DOUBLE,
+    taux_croissance DOUBLE,
+    inflation DOUBLE,
+    taux_chomage DOUBLE,
+    FOREIGN KEY (id_annee) REFERENCES dimension_year(id_annee),
+    FOREIGN KEY (id_secteur) REFERENCES dimension_sector(id_secteur)
+);
+ 
